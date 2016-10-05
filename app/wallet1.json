@@ -1,0 +1,40 @@
+{
+  "wallet" : {
+    "-ABCD" : {
+      "category" : "Personal",
+      "created" : "23-09-2016",
+      "group" : "Shared",
+      "lastUpdated" : "23-09-2016",
+      "name" : "Frank",
+      "owner" : "fjarai@msn.com",
+      "shared" : true
+    },
+    "-ABDE" : {
+      "category" : "Personal",
+      "created" : "23-09-2016",
+      "group" : "Private",
+      "lastUpdated" : "23-09-2016",
+      "name" : "Frank",
+      "owner" : "fjarai@msn.com",
+      "shared" : false
+    },
+    "-ABEF" : {
+      "category" : "Personal",
+      "created" : "23-09-2016",
+      "group" : "Shared",
+      "lastUpdated" : "23-09-2016",
+      "name" : "Mona",
+      "owner" : "msadighi@msn.com",
+      "shared" : true
+    },
+    "-ABFG" : {
+      "category" : "Car",
+      "created" : "23-09-2016",
+      "group" : "Shared",
+      "lastUpdated" : "23-09-2016",
+      "name" : "Jeep",
+      "owner" : "fjarai@msn.com",
+      "shared" : true
+    }
+  }
+}

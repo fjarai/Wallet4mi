@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1058069097106",
+    "firebase_url": "https://w4mi-53bb9.firebaseio.com",
+    "project_id": "w4mi-53bb9",
+    "storage_bucket": "w4mi-53bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058069097106:android:021a5a9e7c925b0f",
+        "android_client_info": {
+          "package_name": "ca.greatech.w4mi.wallet4mi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058069097106-gvhg6pjia6fp0ikpu8o3o0ll4g9icoml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.greatech.w4mi.wallet4mi",
+            "certificate_hash": "8E05228E2825854FF1F32D9598B723B4ECEF3E5E"
+          }
+        },
+        {
+          "client_id": "1058069097106-7fvojbr8ja1iff7nm1npvnm9g7de9j51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqfpusHRNOSNYND_zjMxdMlQz7PafaDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058069097106-7fvojbr8ja1iff7nm1npvnm9g7de9j51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+{
+  "wallet" : {
+    "-ABCD" : {
+      "category" : "Personal",
+      "created" : "23-09-2016",
+      "group" : "Shared",
+      "info" : {
+        "currentAddress" : "21 WheatSheaf St. Richmond Hill ON L4E 5B3",
+        "dateOfBirth" : "22-03-1971",
+        "shoeSize" : "9",
+        "sin" : "970-xxx-xxx"
+      },
+      "lastUpdated" : "23-09-2016",
+      "name" : "Frank",
+      "owner" : "fjarai@msn.com",
+      "shared" : true,
+      "sharedparties" : [ "msadighi@msn.com", "taradokht@yahoo.com", "fzjarai@live.ca" ]
+    },
+    "-ABDE" : {
+      "category" : "Personal",
+      "created" : "23-09-2016",
+      "group" : "Private",
+      "info" : {
+        "surfacePassword" : "xxx-xxx"
+      },
+      "lastUpdated" : "23-09-2016",
+      "name" : "Frank",
+      "owner" : "fjarai@msn.com",
+      "shared" : false
+    },
+    "-ABEF" : {
+      "category" : "Personal",
+      "created" : "23-09-2016",
+      "group" : "Shared",
+      "info" : {
+        "Current Address" : "21 WheatSheaf St. Richmond Hill ON L4E 5B3",
+        "dateOfBirth" : "03-09-1977",
+        "driversLicense" : "GH-123xxxx",
+        "shoeSize" : "7",
+        "sin" : "970-xxx-xxx"
+      },
+      "lastUpdated" : "23-09-2016",
+      "name" : "Mona",
+      "owner" : "msadighi@msn.com",
+      "shared" : true,
+      "sharedParties" : [ "fjarai@msn.com" ]
+    },
+    "-ABFG" : {
+      "category" : "Car",
+      "created" : "23-09-2016",
+      "group" : "Shared",
+      "info" : {
+        "insurer" : "Coseco",
+        "licensePlate" : "MYJ2EP",
+        "policyNo" : "123xxxx",
+        "year" : "2007"
+      },
+      "lastUpdated" : "23-09-2016",
+      "name" : "Jeep",
+      "owner" : "fjarai@msn.com",
+      "shared" : true,
+      "sharedParties" : [ "msadighi@msn.com" ]
+    }
+  }
+}
